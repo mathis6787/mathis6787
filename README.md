@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-<p><a href="https://community.vaunt.dev/board/mathis6787/achievements"><img src="https://api.vaunt.dev/v1/github/entities/mathis6787/achievements/9fc50df5-1830-4e10-afcf-db4006ae5210?format=svg&style=raw" width="300"/></a></p>
-
 <!--
 **mathis6787/mathis6787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
